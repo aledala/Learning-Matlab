@@ -44,8 +44,13 @@ Calculations with Matrices* https://youtu.be/mzzJ9gnMrYE
 Accessing Elements of a Matrix* https://youtu.be/uWPHxpTuZRA
 
 Matrix Creation Functions* https://youtu.be/VPcbpVd_mPA
+
 Combining Matrices https://youtu.be/ejTr3ekTTyA
+
 Determining Array Size and Length https://youtu.be/IF9-ffmxuy8
+
 Matrix Multiplication https://youtu.be/4hsx3bdNjGk
+
 Reshaping Arrays https://youtu.be/UQpDIHlFo8A
+
 Statistical Functions with Matrices https://youtu.be/Y97W3_u7cM4
